@@ -38,11 +38,35 @@ Child Labor in Mexico 2000 to Present
   With the remaining $30,000, I would like to actually expand my project to create a network of Mexico-made products produced in factories that have used child labor, that are then sold in the United States. I would like to create a network of where each of the products are sold. For example, if a popular store in America is buying goods from factories known to use child labor, a network could make that obvious. The amount of edges from the one store to the next would allow users to see just how much the United States contributes to the child labor problems in Mexico.
   
   Ethan will specifically be responsible for helping me create the physical layout of the site. For example, the two side tabs on the site that allow users to explore both the spatial map and the network. I'd also like Ethan to help me figure out how to design the opening page of my site. I'd like ot use pictures of children in Mexico, those who have been exposed to child labor, maybe even take some quotes from them, if I can find them. I'd also like to create a tab, with Ethan's help, that will allow me to share the history of child labor, and explain why I chose Mexico rather than the United States. I'd like to provide background, that way people understand why this is important.
+  
   Chris will be specifically responsible for the color scheme and the visual effects. For my site, since it is about a sad topic, I would like to use dull colors, greys, blacks, and whites when discussing child labor and the negative effects that it has had on Mexican children. However, I think on the opening page of my site, I would like to use brighter colors, like reds, yellows, and greens, especially on the quotes, if I am able to find them. I would like those to stand out because they will provide a first-hand impact of child labor, and hopefully be impactful to those exploring my site.
 #### Final Products and Dissemination
-  As previously mentioned, I would like to create a website to share my information with the world. 
+  As previously mentioned, I would like to create a website to share my information with the world. I would also ask if Ethan and Chris would be willing to share my project with their fans, whether on their websites or during a public speech; something to get the word out. Once my prject has some attention, I could travel and give public speeches about the future of my project and what I wish to accomplish.
+  
+  I would like to make my project accessible to all by printing out fliers, and making some of my speeches and presentations free. I would like to be able to share my ideas with as many people as possible, whether poverty-stricken, physically disabled, or mentally handicap. I would like to give all people a chance to make a difference if they would like to do so. I think another way to make my project more accessible, specifically to those who are hearing impaired, would be to have sign language and oral interpreters at my speeches and presentations. for those who are sight impared, I could create a flier or pamphlet in braile, which would allow those with sight impairments to be included in the creation of my project.
+  
+  Access to my website will also be free, however, I will be acceoting donations, and those donations will go towards funding a project that is fighting for the rights of children and trying to more strictly enforce child labor laws in Mexico. I think I will include a "Contact Me" option on my site as well, for those who would lile to reach out. Whether to schedule an event with me, to ask me questions, or simply to communicate with like-minded projects similar to mine.
 ## Biographies
   Ethan Marcotte is famous programmer. He is most known for his creation of "responsive web design". He has written two books, *Responsive Web Design* and *Responsive Design: Patterns and Principles* about this work. He has worked with many well-known companies including; Google, The Today Show, eBay, and *New York Magazine*, just to name a few. Considering Ethan ocined the term "repsonsive web design", it is obvious he would be the best one to hire to complete my project.
   
   Chris Coyier is a world known programmer. He is most famous for his work in Cascade Styling Sheet programming and even created a site dedicated to it. He is also the co-founder of *CodePen*, which can be described as Facebook for programmers. It allows people to write in all types of coding languages, collect languages, post jobs, and more. I think Chris' established identity in programming will be helpful when designing my site. He could not only bring publicity to it, but he created CSS programming, which is a powerful deat in the world of computers, he is the best of the best. Also, he could help guide me as I am creating my network, making sure that I am using the correct coding language and the correct set up.
 ## Appendices
+[Ethan Marcotte](https://ethanmarcotte.com)
+
+[Chris Coyier](https://chriscoyier.net)
+
+[American Panorama](http://dsl.richmond.edu/panorama)
+
+[Photogrammar](http://photogrammar.org/map/counties)
+
+[Child Labor in Mexico](https://probdes.iiec.unam.mx/en/revistas/v45n178/body/v45n178a5_1.php)
+
+[Kids at Work](https://mexiconewsdaily.com/news/kids-at-work-there-are-3-6-million-in-mexico)
+
+[Latin America versus Mexico: Child Labor](http://www.humanosphere.org/human-rights/2017/06/study-mexico-to-blame-for-nearly-half-of-child-labor-in-latin-america)
+
+[Statistics Child Labor in Mexico 2015-2017](https://www.statista.com/statistics/713532/employment-rate-minors-in-mexico)
+
+[The 2018 List of Goods Produced by Child Labor or Forced Labor](https://www.dol.gov/sites/default/files/documents/ilab/ListofGoods.pdf)
+
+[Children's Rights: Mexico](https://www.loc.gov/law/help/child-rights/mexico.php)
