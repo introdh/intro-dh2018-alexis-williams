@@ -57,24 +57,23 @@ Child Labor in Mexico 2000 to Present
   
   Chris Coyier is a world known programmer. He is most famous for his work in Cascade Styling Sheet programming and even created a site dedicated to it. He is also the co-founder of *CodePen*, which can be described as Facebook for programmers. It allows people to write in all types of coding languages, collect languages, post jobs, and more. I think Chris' established identity in programming will be helpful when designing my site. He could not only bring publicity to it, but he created CSS programming, which is a powerful feat in the world of computers, he is the best of the best. Also, he could help guide me as I am creating my network, making sure that I am using the correct coding language and the correct set up.
 
-
 ## Appendices
-[Ethan Marcotte](https://ethanmarcotte.com)
+Arnold, Taylor, Lauren Tilton, Laura Wexler. "Photogrammar." Accessed November 30, 2018. http://photogrammar.org/map/counties.
 
-[Chris Coyier](https://chriscoyier.net)
+"Children's Rights: Mexico." Library of Congress. Accessed December 3, 2018. https://www.loc.gov/law/help/child-rights/mexico.php.
 
-[American Panorama](http://dsl.richmond.edu/panorama)
+Coyier, Chris. "The Personal Website of Chris Coyier." Accessed December 5, 2018. https://chriscoyier.net
 
-[Photogrammar](http://photogrammar.org/map/counties)
+"Employment Rate Among Minors aged 5 to 17 in Mexico in 2015 and 2017." Statista. Accessed December 10, 2018. https://www.statista.com/statistics/713532/employment-rate-minors-in-mexico.
 
-[Child Labor in Mexico](https://probdes.iiec.unam.mx/en/revistas/v45n178/body/v45n178a5_1.php)
+"Kids at Work: there are 3.6 million aged 5-17 in Mexico." Mexico News Daily. Accessed December 10, 2018. https://mexiconewsdaily.com/news/kids-at-work-there-are-3-6-million-in-mexico.
 
-[Kids at Work](https://mexiconewsdaily.com/news/kids-at-work-there-are-3-6-million-in-mexico)
+Marcotte, Ethan. "Ethan Marcotte." Last modified 2018. https://ethanmarcotte.com.
 
-[Latin America versus Mexico: Child Labor](http://www.humanosphere.org/human-rights/2017/06/study-mexico-to-blame-for-nearly-half-of-child-labor-in-latin-america)
+Nelson, Robert., Edward L. Ayers, Justin Madron, Nathaniel Ayers, Scott Nesbit. "American Panorama." Accessed November 30, 2018. http://dsl.richmond.edu/panorama.
 
-[Statistics Child Labor in Mexico 2015-2017](https://www.statista.com/statistics/713532/employment-rate-minors-in-mexico)
+Nikola, Lisa. "Study: Mexico to Blame for Nearly Half of Child Labor in Latin America." Accessed December 10, 2018. http://www.humanosphere.org/human-rights/2017/06/study-mexico-to-blame-for-nearly-half-of-child-labor-in-latin-america.
 
-[The 2018 List of Goods Produced by Child Labor or Forced Labor](https://www.dol.gov/sites/default/files/documents/ilab/ListofGoods.pdf)
+Orraca, Pedro. "Child Labor and its causes in Mexico." Accessed December 3, 2018. https://probdes.iiec.unam.mx/en/revistas/v45n178/body/v45n178a5_1.php.
 
-[Children's Rights: Mexico](https://www.loc.gov/law/help/child-rights/mexico.php)
+"The 2018 List of Goods Produced by Child Labor or Forced Labor." U.S. Department of Labor. Accessed December 1, 2018. https://www.dol.gov/sites/default/files/documents/ilab/ListofGoods.pdf.
